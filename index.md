@@ -5,3 +5,4 @@
   <body>
     <p>I am going to NYU CAS for computer science, and I am also minoring in music theory.</p>
     <a><img src="_images/websitePic.jpg" alt="websitePic" class="inline"/></a>
+!(image)(https://github.com/daniloMontes/github-pages-with-jekyll/blob/master/_images/websitePic.jpg)
